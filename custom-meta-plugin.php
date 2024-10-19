@@ -3,7 +3,7 @@
  * Plugin Name: Custom Meta Plugin
  * Description: Inserts custom meta details and HTML into the header and footer sections of posts and pages.
  * Version: 1.1
- * Author: Your Name
+ * Author: Dumidu Neeshan
  */
 
 // Add settings page in the admin menu
