@@ -1,4 +1,4 @@
-# Custom Meta Plugin
+# Custom Meta Plugin For WordPress
 
 A lightweight WordPress plugin by **Dumidu Neeshan** that makes it easy to manage and override meta details and custom HTML snippets on a global or per-post/page basis.
 
